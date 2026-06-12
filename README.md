@@ -32,3 +32,9 @@ https://github.com/bet0n12/fastapiproj1
  3.1: Healtcheck/Статус работы ассистента проверяется прямо с этой страницы при выборе нужной функции и нажатии Try it out>Execute.
 
  3.2: Запрос напрямую вводится в POST/Chat после нажатия Try it out
+ 
+ 3.3: Send message отправка сообщения/промпта
+ 
+ 3.4: GET/user_location Определение местоположения пользователя.
+
+ 3.5: POST/assistant/pc-config Отправка текущих характеристик ПК

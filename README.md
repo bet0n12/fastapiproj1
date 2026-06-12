@@ -2,6 +2,7 @@
 https://github.com/bet0n12/fastapiproj1
 
    Запуск
+   
  1: Для запуска требуется открыть терминал в папке прокета и выполнить комманду
  uvicorn main:app --reload
 
